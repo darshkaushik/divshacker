@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divshacker&show_icons=true&locale=en&layout=compact&theme=onedark" alt="divshacker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&locale=en" alt="divshacker" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&locale=en&theme=radical" alt="divshacker" /></p>
