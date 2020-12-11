@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **divyanshusingh239@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/2W2jlnE](https://bit.ly/2W2jlnE)
+- 📄 Know about my experiences [CV](https://bit.ly/2W2jlnE)
 
 - ⚡ Fun fact **I Love Physics**
 
