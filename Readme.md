@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [DM Me on twitter!](https://twitter.com/divshacker) OR  [Mail Me at divyanshusingh239@gmail.com](divyanshusingh239@gmail.com)
 - 😄 Pronouns: He/him
 <!--- ⚡ Fun fact: -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divshacker&theme=onedark)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+[![Divs's github stats](https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divshacker&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
