@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [CV](https://bit.ly/2W2jlnE)
 
-- ⚡ Fun fact **I Love Physics**
+- ⚡ Fun fact: **I Love Physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
