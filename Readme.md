@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Physics**
 
-- 📝 I regularly write articles on [oceanofphysics.blogspot.com](oceanofphysics.blogspot.com)
+- 📝 I regularly write articles on [oceanofphysics.blogspot.com](https://oceanofphysics.blogspot.com/)
 
 - 💬 Ask me about **Quantum Computing, Physics, C++, Python**
 
