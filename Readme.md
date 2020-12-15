@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Physics**
 
-- 📝 I regularly write articles on [oceanofphysics.blogspot.com](https://oceanofphysics.blogspot.com/)
-
 - 💬 Ask me about **Quantum Computing, Physics, C++, Python**
 
 - 📫 How to reach me **divyanshusingh239@gmail.com**
