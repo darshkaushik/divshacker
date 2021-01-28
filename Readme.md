@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Siv Ram Shastri.<br>
   <br> I'm a Frontend Web Developer. <br>
   <br>
-    <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" alt="Coder GIF" width="1000" height="200">
+    <img src="https://media.giphy.com/media/8WeatsYCC54TC/giphy.gif" alt="Coder GIF" width="1000" height="300">
  </abc>
 </h3> 
 <h3 align="left">Languages and Tools:</h3>
