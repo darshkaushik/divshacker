@@ -17,8 +17,9 @@ Skills: Qiskit / Jupyter / Python / C++
 
 ![DIVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&theme=dark)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=divshacker)  
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=divshacker)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=divshacker)  
 
 
