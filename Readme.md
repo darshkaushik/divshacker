@@ -15,7 +15,7 @@ Skills: Qiskit / Jupyter / Python / C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/divshacker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/divs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/divshacker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](oceanofphysics.blogspot.com)  
 
-![DIVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&theme=dark)[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=divshacker)
+![DIVS's GitHub stats](https://github-readme-stats.vercel.app/api?username=divshacker&show_icons=true&theme=dark)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=divshacker)
 
 
 
